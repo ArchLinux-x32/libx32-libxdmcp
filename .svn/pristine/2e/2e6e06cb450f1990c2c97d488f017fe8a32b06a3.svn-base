@@ -1,4 +1,4 @@
-# $Id: PKGBUILD 115615 2014-07-12 17:34:08Z fyan $
+# $Id$
 # Contributor: Jan de Groot <jgc@archlinux.org>
 
 _pkgbasename=libxdmcp
